@@ -5,8 +5,8 @@
 This is a modified version of [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) with:
 
 * Corrected edge cuts
-* GND filled zones instead of traces
-* An asymmetrical right PCB to support symmetrical MCU placement
+* Replaced GND traces with filled zones
+* Asymmetrical right PCB for symmetrical MCU placement
 
 ## Firmware
 
