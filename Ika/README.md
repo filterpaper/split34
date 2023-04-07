@@ -4,8 +4,8 @@
 
 A simplified interation of [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) with:
 
-* Asymmetrical right PCB to support symmetrical MCU placement
-* Soldered switches
+* Asymmetrical controller pins
+* Soldered switch footprint
 * TRS compatible
 
 Special thanks to [@GEIGEIGEIST](https://github.com/GEIGEIGEIST) for the halftone silkscreens.
